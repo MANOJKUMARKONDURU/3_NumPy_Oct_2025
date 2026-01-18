@@ -1,2 +1,7 @@
 # 3_NumPy_Oct_2025
-NumPy Basics, Random, Unfnc
+**1**- NumPy Basics, 
+
+**2** - Random
+
+**3** - Universal Functions(Ufunc)
+
